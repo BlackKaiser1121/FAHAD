@@ -1,10 +1,10 @@
-📖 Overview
+OVERVIEW
 
 FAHAD (Deepfake Image Verification Application) is an offline, AI-powered mobile application designed to detect AI-generated and manipulated images (deepfakes). The application uses a locally deployed Vision Transformer (ViT) model converted to TensorFlow Lite (TFLite) to perform image verification directly on the user's device without requiring an internet connection.
 
 The system aims to address the growing problem of digital misinformation and privacy concerns associated with cloud-based verification tools by providing a secure, fast, and privacy-preserving solution.
 
-Objectives
+OBJECTIVES
 - Detect AI-generated and manipulated images offline.
 Protect user privacy by processing all images locally.
 Generate credibility scores and detailed verification reports.
